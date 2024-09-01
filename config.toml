@@ -1,7 +1,7 @@
-baseURL = 'https://wasabina67.github.io/hugo-ananke-example/'
-languageCode = 'ja-jp'
-title = 'My New Hugo Site'
-theme = 'ananke'
+baseURL = "https://wasabina67.github.io/hugo-ananke-example/"
+languageCode = "ja-jp"
+title = "My New Hugo Site"
+theme = "ananke"
 
-defaultContentLanguage = 'ja'
-publishDir = 'docs'
+defaultContentLanguage = "ja"
+publishDir = "docs"
